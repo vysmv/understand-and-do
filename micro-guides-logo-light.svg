@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960" height="240" viewBox="0 0 960 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>micro-guides logo</title>
+  <desc>Wordmark with chip icon; transparent background</desc>
+  <defs>
+    <style>
+      .word { font: 700 79px/1.1 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; letter-spacing: 0.5px; fill: #111827; }
+    </style>
+  </defs>
+
+  <g transform="translate(28,30)">
+    
+    <svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <title>micro-guides mark</title>
+      <desc>Rounded chip with 3x3 grid, transparent background</desc>
+      <rect x="6" y="6" width="168" height="168" rx="12.66" fill="#8B5CF6"/>
+      <rect x="29.81" y="29.81" width="29.18" height="29.18" rx="3.50" fill="#FFFFFF"/>
+        <rect x="75.41" y="29.81" width="29.18" height="29.18" rx="3.50" fill="#FFFFFF"/>
+        <rect x="121.01" y="29.81" width="29.18" height="29.18" rx="3.50" fill="#FFFFFF"/>
+        <rect x="29.81" y="75.41" width="29.18" height="29.18" rx="3.50" fill="#FFFFFF"/>
+        <rect x="75.41" y="75.41" width="29.18" height="29.18" rx="3.50" fill="#FFFFFF"/>
+        <rect x="121.01" y="75.41" width="29.18" height="29.18" rx="3.50" fill="#FFFFFF"/>
+        <rect x="29.81" y="121.01" width="29.18" height="29.18" rx="3.50" fill="#FFFFFF"/>
+        <rect x="75.41" y="121.01" width="29.18" height="29.18" rx="3.50" fill="#FFFFFF"/>
+        <rect x="121.01" y="121.01" width="29.18" height="29.18" rx="3.50" fill="#FFFFFF"/>
+    </svg>
+  </g>
+
+  <text class="word" x="236" y="153">micro-guides</text>
+</svg>
