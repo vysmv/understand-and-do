@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="micro-guides-logo-dark.svg">
-    <img alt="micro-guides" src="micro-guides-logo-light.svg" width="640">
+    <source media="(prefers-color-scheme: dark)" srcset="understand-and-do.png">
+    <img alt="micro-guides" src="understand-and-do.png" width="640">
   </picture>
 </p>
 
