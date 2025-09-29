@@ -50,7 +50,7 @@ Host work_gh
 [user]
   name = vysmv
   email = vysmv.contact@gmail.com
-  signingkey = /home/vitaliy/.ssh/id_ed25519_personal_gh
+  signingkey = ~/.ssh/id_ed25519_personal_gh
 
 [gpg]
   format = ssh
@@ -58,8 +58,8 @@ Host work_gh
 [commit]
   gpgsign = true
 
-[includeIf "gitdir:/home/vitaliy/code/work/**"]
-  path = /home/vitaliy/.gitconfig-work
+[includeIf "gitdir:~/code/work/**"]
+  path = ~/.gitconfig-work
 ```
 
 Создаём конфиг ~/.gitconfig-work:
@@ -68,7 +68,7 @@ Host work_gh
 [user]
   name = official-name
   email = test.corporate.email@gmail.com
-  signingkey = /home/vitaliy/.ssh/id_ed25519_work_gh
+  signingkey = ~/.ssh/id_ed25519_work_gh
 ```
 
 ## шаг 6
