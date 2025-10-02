@@ -76,12 +76,12 @@ Host work_gh
 ```
 
 ## шаг 6
-тестируем
+Тестируем
 
 Сначала клонируем (находясь в директории ~/code/personal):
 
 ```bash
-git clone git@personal_gh:vysmv/micro-guides.git
+git clone git@github.com:vysmv/understand-and-do.git
 ```
 
 Затем клонируем (находясь в директории ~/code/work):
