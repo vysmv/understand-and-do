@@ -81,7 +81,7 @@ Host work_gh
 Сначала клонируем (находясь в директории ~/code/personal):
 
 ```bash
-git clone git@github.com:vysmv/understand-and-do.git
+git clone git@personal_gh:vysmv/understand-and-do.git
 ```
 
 Затем клонируем (находясь в директории ~/code/work):
