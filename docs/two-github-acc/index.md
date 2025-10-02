@@ -1,5 +1,9 @@
 # Конфигурация Git и GitHub для работы с двумя аккаунтами
 
+<p align="center">
+  <img src="img/1.png" alt="обзор задачи">
+</p>
+
 ## Шаг 1
 
 ```bash
