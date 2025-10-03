@@ -5,4 +5,3 @@
 - 📜 [Debian 13: установка в режиме «Expert»](docs/debian-13-expert-installation/index.md)
 - 📜 [Конфигурация Git и GitHub для работы с двумя аккаунтами](docs/two-github-acc/index.md)
 
-#
